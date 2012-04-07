@@ -1,0 +1,11 @@
+A DCPU-16 emulator, running in DCPU-16!
+
+Paste your program onto the bottom after the :program label, assemble, and run.
+
+NOTE: Only tested on my own emulator/assembler
+
+TODO:
+ * Better comments
+ * More documentation
+ * Optimization, both for speed and for size (right now it's around 70 cycles per instruction & 344 words long)
+ * (more TODOs in code)
